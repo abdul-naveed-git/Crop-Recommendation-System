@@ -33,16 +33,6 @@ Using these parameters, the trained machine learning model recommends the best c
 - Fast and accurate recommendations.
 - Supports multiple crop categories.
 
----
-
-## Technology Stack
-
-- Python
-- Flask
-- NumPy
-- Scikit-learn
-- HTML/CSS
-- Pickle (for model serialization)
 
 ---
 
